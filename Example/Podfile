@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'new_lrussu2017_Example' do
+  pod 'new_lrussu2017', :path => '../'
+
+  target 'new_lrussu2017_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
