@@ -1,0 +1,6 @@
+framework module new_lrussu2017 {
+  umbrella header "new_lrussu2017-umbrella.h"
+
+  export *
+  module * { export * }
+}

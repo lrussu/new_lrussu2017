@@ -1,0 +1,16 @@
+PODS:
+  - new_lrussu2017 (0.1.0)
+
+DEPENDENCIES:
+  - new_lrussu2017 (from `../`)
+
+EXTERNAL SOURCES:
+  new_lrussu2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  new_lrussu2017: 58a587b1581095622be3803e973e127e07780f25
+
+PODFILE CHECKSUM: 9950d5670c75ed1a310d6ff39b8238f5640b1c20
+
+COCOAPODS: 1.2.1

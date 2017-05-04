@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import new_lrussu2017
+import CoreData
+
 
 class ViewController: UIViewController {
 

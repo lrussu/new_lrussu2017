@@ -1,0 +1,26 @@
+{
+  "name": "new_lrussu2017",
+  "version": "0.1.0",
+  "summary": "First pod",
+  "description": "Mission of pod is to make work with articles more efficienty",
+  "homepage": "https://github.com/lrussu/new_lrussu2017",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lrussu": "artimida@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lrussu/new_lrussu2017.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "new_lrussu2017/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "CoreData"
+  ]
+}

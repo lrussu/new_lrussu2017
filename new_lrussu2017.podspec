@@ -1,4 +1,4 @@
-#
+
 # Be sure to run `pod lib lint new_lrussu2017.podspec' to ensure this is a
 # valid spec before submitting.
 #
@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'new_lrussu2017'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of new_lrussu2017.'
+  s.summary          = 'First pod'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Mission of pod is to make work with articles more efficienty
                        DESC
 
   s.homepage         = 'https://github.com/lrussu/new_lrussu2017'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit', 'CoreData'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
